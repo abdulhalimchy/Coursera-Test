@@ -35,6 +35,8 @@ p {
 
 .menu {
     width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .row {
@@ -48,6 +50,9 @@ p {
     border: 1px solid rgb(12, 10, 10);
 }
 
+br {
+    clear: both;
+}
 
 /************** Desktop only ***************/
 @media (min-width: 992px){
