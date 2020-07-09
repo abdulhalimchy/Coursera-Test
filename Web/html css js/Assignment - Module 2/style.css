@@ -28,8 +28,12 @@ h3{
 
 p {
     width: 95%;
-    font-size: 20px;
+    /* font-size: 20px; */
     margin: 35px 10px 10px 10px;
+}
+
+.menu {
+    width: 100%s;
 }
 
 .row {
