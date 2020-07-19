@@ -1,0 +1,23 @@
+.navbar-nav a {
+    font-size: 1.35em;
+}
+
+#home h2 {
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+
+.menu-item {
+    margin: 10px;
+    background-color: rgb(167, 218, 201);
+}
+
+.menu-item h3 {
+    padding-top: 10px;
+    color: rgb(83, 51, 51);
+}
+
+.menu-item p {
+    padding: 0px 10px 10px 10px;
+    font-size: 1.40em;
+}
